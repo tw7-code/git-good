@@ -1,1 +1,2 @@
-1) Click the start button
+1) Click the launch button
+2) Teach the robot how to high-five
